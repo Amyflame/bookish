@@ -295,7 +295,7 @@ input[type="submit"]:hover {
 .block-system-menu-blockmain a:hover,
 .block-system-menu-blockmain a:focus {
   color: var(--font-color);
-  letter-spacing: 3px;
+  letter-spacing: 2px;
 }
 
 .block-system-menu-blockmain a:hover,
